@@ -11,4 +11,4 @@ if tempo1 < 0 or tempo2 < 0 or tempo3 < 0:
     print ("erro número negativo.")
 else:
     soma = tempo1 + tempo2 + tempo3
-      print(f"tempo total do projeto:{soma} dias")
+print(f"tempo total do projeto:{soma} dias")
